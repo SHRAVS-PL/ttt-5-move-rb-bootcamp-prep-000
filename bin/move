@@ -10,3 +10,5 @@ puts "Where would you like to go?"
 pos = gets.strip
 input_to_index(pos) 
 
+move(board,pos,
+
