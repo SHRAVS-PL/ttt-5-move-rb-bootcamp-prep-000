@@ -10,7 +10,6 @@ end
 
 def input_to_index(pos) 
   pos - 1
-  
 end
 
 def move(board,pos,char = 'X')
