@@ -11,6 +11,6 @@ def input_to_index(pos)
   
 end
 
-def move
+def move(board,pos,char)
   
 end
