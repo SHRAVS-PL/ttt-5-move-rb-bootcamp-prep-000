@@ -8,10 +8,10 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(pos) 
-  pos = board[pos - 1]
+  pos = board[ - 1]
   
 end
 
-def move(board,pos,char)
+def move(board,pos,char = 'X')
   
 end
